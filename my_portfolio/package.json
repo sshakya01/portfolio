@@ -20,5 +20,5 @@
     "eject": "react-scripts eject",
     "deploy": "npm run build && gh-pages -d build"
   },
-  "homepage": "http://sshakya01.github.io"
+  "homepage": "https://sshakya01.github.io/portfolio/"
 }
