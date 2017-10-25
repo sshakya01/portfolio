@@ -4,7 +4,7 @@ import Typist from 'react-typist';
 
 var sectionStyle = {
   width: "100%",
-  height: "600px",
+  height: "650px",
   backgroundImage: `url(${Background})`
 };
 
